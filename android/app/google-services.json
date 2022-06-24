@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74078256349",
+    "project_id": "test-10c7b",
+    "storage_bucket": "test-10c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74078256349:android:f270e3ee2cdd6c3388af34",
+        "android_client_info": {
+          "package_name": "com.firstlogic.test1.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74078256349-h4r3jaronkeav6ak98niitufba96dp69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmoJXtuBhLbrddUigbDecPE1UYv9QSJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74078256349-h4r3jaronkeav6ak98niitufba96dp69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
